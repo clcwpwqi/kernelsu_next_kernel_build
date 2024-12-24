@@ -1,1 +1,1 @@
-Motorola EdgeS/G100 (nio) KernelSU-Kernel Build
+Xiaomi 10 KernelSU-Next with SUSFS Kernel Build
