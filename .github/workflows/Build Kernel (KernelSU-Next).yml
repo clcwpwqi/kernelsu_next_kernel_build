@@ -33,7 +33,7 @@ jobs:
       - name: KernelSU-Next
         run: |
           cd kernel-source
-          curl -LSs "https://raw.githubusercontent.com/rifsxd/KernelSU-Next/next/kernel/setup.sh" | bash -s next-susfs-4.19
+          curl -LSs "https://raw.githubusercontent.com/rifsxd/KernelSU-Next/next/kernel/setup.sh" | bash -
           cd ..
 
       - name: Build kernel
